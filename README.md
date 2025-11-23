@@ -56,19 +56,6 @@ text
                          │  • Chat History   │
                          │  • Configuration  │
                          └───────────────────┘
-Detailed Workflow
-
-
-
-
-
-
-
-
-
-![Uploading deepseek_mermaid_20251123_5d6080.png…]()
-
-
 
 
 ⚡ Quick Start
