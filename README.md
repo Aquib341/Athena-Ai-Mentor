@@ -1,4 +1,4 @@
-🏛️ Athena AI Mentor: Intelligent Career & Learning Companion
+<img width="408" height="317" alt="Image" src="https://github.com/user-attachments/assets/23121dfd-c06c-41c4-b219-61140d4554d7" /> Athena AI Mentor: Intelligent Career & Learning Companion
 
 🌟 Overview
 Athena AI Mentor is a sophisticated conversational AI agent that revolutionizes personalized career guidance and educational support. Built on Google's cutting-edge Agent Development Kit and powered by Gemini AI, Athena delivers intelligent, context-aware mentorship through natural, engaging conversations.
@@ -56,5 +56,13 @@ Python 3.8+
 Google API Key (Get from Google AI Studio)
 
 Kaggle Account (recommended) or local Jupyter environment
+
+<img width="1463" height="699" alt="Image" src="https://github.com/user-attachments/assets/a182f274-c8d8-4643-b8b4-bdf014970634" />
+
+<img width="1463" height="699" alt="Image" src="https://github.com/user-attachments/assets/193ab9e6-9020-47b6-8cb4-ba7ab9f0b723" />
+
+<img width="1463" height="699" alt="Image" src="https://github.com/user-attachments/assets/0bfa3277-a420-48c4-be94-0c29654d37b4" />
+
+<img width="1463" height="699" alt="Image" src="https://github.com/user-attachments/assets/cbfdac96-62fb-415a-9a15-c53f15a5dfda" />
 
 
